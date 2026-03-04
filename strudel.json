@@ -1,4 +1,4 @@
 {
-  "_base": "https://raw.githubusercontent.com/hexadeciman/samples/main/",
+  "_base": "https://raw.githubusercontent.com/hexadeciman/strudel/main/",
   "heartbeat": ["heartbeat/heartbeat1.wav", "heartbeat/heartbeat2.wav"]
 }
